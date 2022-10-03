@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "title": "Learn Html",
+        "des":"HTML is the language for describing the structure of Web pages. HTML gives authors the means to: Publish online documents with headings, text, tables, lists, photos, etc. Retrieve online information via hypertext links, at the click of a button.HTML for Absolute Beginners.While many guides on the internet attempt to teach HTML using a lot of mind-boggling theory, this tutorial will instead focus on giving you the practical skills to build your first site. The aim is to show you how to create your first web page without spending the entire tutorial focusing too much on the “why.”By the end of this tutorial, you will have the know-how to create a basic website and we hope that this will inspire you to delve further into the world of HTML using our follow-on guides.What is HTML?Okay, so this is the only bit of mandatory theory. In order to begin to write HTML, it helps if you know what you are writing.HTML is the language in which most websites are written. HTML is used to create pages and make them functional.The code used to make them visually appealing is known as CSS and we shall focus on this in a later tutorial. For now, we will focus on teaching you how to build rather than design.The History of HTMLHTML was first created by Tim Berners-Lee, Robert Cailliaus others starting in 1989. It stands for Hyper Text Markup Language.Hypertext means that the document contains links that allow the reader to jump to other places in the document or to another document altogether. The latest version is known as HTML5.A Markup Language is a way that computers speak to each other to control how text is processed and presented. To do this HTML uses two things: tags and attributes.What are Tags and Attributes? Tags and attributes are the basis of HTML.They work together but perform different functions  it is worth investing 2 minutes in differentiating the two",
+        "img":"https://play-lh.googleusercontent.com/85WnuKkqDY4gf6tndeL4_Ng5vgRk7PTfmpI4vHMIosyq6XQ7ZGDXNtYG2s0b09kJMw"
+    },
+    {
+        "id":"2",
+        "title":"Learn CSS",
+        "des":"CSS (Cascading Style Sheets) is used to style and layout web pages — for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features.",
+        "img":"https://colorlib.com/cdn-cgi/image/width=1400,height=802,fit=crop,quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/sites/2/creative-css3-tutorials.jpg"
+    },
+    {
+        "id":"3",
+        "title":"Learn JS",
+        "des":"Javascript is used by programmers across the world to create dynamic and interactive web content like applications and browsers. JavaScript is so popular that it's the most used programming language in the world, used as a client-side programming language by 97.0% of all websites.",
+        "img":"https://miro.medium.com/max/1024/1*-2VDe74tjLJnng9k9g6Cqg.jpeg"
+    }
+]
